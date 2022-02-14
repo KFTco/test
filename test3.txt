@@ -2,3 +2,5 @@
 14
 15 
 16
+
+this is new mary() function

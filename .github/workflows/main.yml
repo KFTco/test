@@ -15,6 +15,6 @@ jobs:
         port: 22
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
-        script: "cd /rdl/ && git pull origin master"
-    - run: "composer install"
+        script: "cd /rdl/ && git pull origin master && pm2 restart 9"
+
      

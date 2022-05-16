@@ -10,7 +10,9 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Get result
-      run: ./laravel.sh
+      run: |
+         git update-index --chmod=+x ./laravel.sh
+         ./laravel.sh
       shell: bash
     - name: Deploy Ehsan
       uses: appleboy/ssh-action@master

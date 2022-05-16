@@ -16,5 +16,5 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         script: "cd /rdl/ && git pull origin master && pm2 restart 9"
-    - run: ./laravel.sh
+    - run: laravel.sh
 

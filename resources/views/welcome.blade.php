@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Made By Ehsan
+                   finally it's done
                 </div>
 
                 <div class="links">

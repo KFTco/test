@@ -1,0 +1,31 @@
+2022-05-16T12:19:50: Laravel development server started: http://0.0.0.0:36002
+2022-05-16T12:19:50: [Mon May 16 12:19:50 2022] PHP 7.4.16 Development Server (http://0.0.0.0:36002) started
+2022-05-16T12:23:33: [Mon May 16 12:23:33 2022] 127.0.0.1:43478 Accepted
+2022-05-16T12:23:33: Laravel development server started: http://0.0.0.0:36002
+2022-05-16T12:23:33: [Mon May 16 12:23:33 2022] PHP 7.4.16 Development Server (http://0.0.0.0:36002) started
+2022-05-16T13:11:02: [Mon May 16 13:11:02 2022] 127.0.0.1:43900 Accepted
+2022-05-16T13:11:02: Laravel development server started: http://0.0.0.0:36002
+2022-05-16T13:11:02: [Mon May 16 13:11:02 2022] PHP 7.4.16 Development Server (http://0.0.0.0:36002) started
+2022-05-16T14:41:01: [Mon May 16 14:41:01 2022] 127.0.0.1:44178 Accepted
+2022-05-16T14:41:01: Laravel development server started: http://0.0.0.0:36002
+2022-05-16T14:41:01: [Mon May 16 14:41:01 2022] PHP 7.4.16 Development Server (http://0.0.0.0:36002) started
+2022-05-16T16:11:01: [Mon May 16 16:11:01 2022] 127.0.0.1:44814 Accepted
+2022-05-16T16:11:01: [Mon May 16 16:11:01 2022] 127.0.0.1:44814 [200]: GET /robots.txt
+2022-05-16T16:11:01: [Mon May 16 16:11:01 2022] 127.0.0.1:44814 Closing
+2022-05-16T16:11:01: Laravel development server started: http://0.0.0.0:36002
+2022-05-16T16:11:01: [Mon May 16 16:11:01 2022] PHP 7.4.16 Development Server (http://0.0.0.0:36002) started
+2022-05-16T16:11:02: [Mon May 16 16:11:02 2022] 127.0.0.1:44816 Accepted
+2022-05-16T16:11:02: [Mon May 16 16:11:02 2022] 127.0.0.1:44816 Closing
+2022-05-16T16:49:19: [Mon May 16 16:49:19 2022] 127.0.0.1:44886 Accepted
+2022-05-16T16:49:19: Laravel development server started: http://0.0.0.0:36002
+2022-05-16T16:49:19: [Mon May 16 16:49:19 2022] PHP 7.4.16 Development Server (http://0.0.0.0:36002) started
+2022-05-16T16:49:19: [Mon May 16 16:49:19 2022] 127.0.0.1:44888 Accepted
+2022-05-16T16:49:19: [Mon May 16 16:49:19 2022] 127.0.0.1:44888 Closing
+2022-05-16T16:49:19: [Mon May 16 16:49:19 2022] 127.0.0.1:44890 Accepted
+2022-05-16T16:49:19: [Mon May 16 16:49:19 2022] 127.0.0.1:44890 Closing
+2022-05-16T16:49:19: [Mon May 16 16:49:19 2022] 127.0.0.1:44892 Accepted
+2022-05-16T16:49:19: [Mon May 16 16:49:19 2022] 127.0.0.1:44892 [200]: GET /favicon.ico
+2022-05-16T16:49:19: [Mon May 16 16:49:19 2022] 127.0.0.1:44892 Closing
+2022-05-16T16:57:15: [Mon May 16 16:57:15 2022] 127.0.0.1:44906 Accepted
+2022-05-16T16:57:15: Laravel development server started: http://0.0.0.0:36002
+2022-05-16T16:57:15: [Mon May 16 16:57:15 2022] PHP 7.4.16 Development Server (http://0.0.0.0:36002) started

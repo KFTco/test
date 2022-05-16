@@ -10,6 +10,7 @@ jobs:
     steps:
     - name: Get result
       run: ./laravel.sh
+      shell: bash
     - name: Deploy Ehsan
       uses: appleboy/ssh-action@master
       with:

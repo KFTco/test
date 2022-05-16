@@ -1,0 +1,20 @@
+name: CD
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Deploy Ehsan
+      uses: appleboy/ssh-action@master
+      with:
+        host: 185.110.189.5
+        port: 22
+        username: ${{ secrets.USERNAME }}
+        password: ${{ secrets.PASSWORD }}
+        script: "git pull origin master"
+    - run: "composer install"
+     
